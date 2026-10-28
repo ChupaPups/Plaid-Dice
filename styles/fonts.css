@@ -1,0 +1,26 @@
+.nunito {
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.nunito-sans {
+    font-family: "Nunito Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100,
+        "YTLC" 500;
+}
+
+.regular {
+    font-weight: 400;
+}
+
+.semibold {
+    font-weight: 400;
+}
+
+.bold {
+    font-weight: 400;
+}
