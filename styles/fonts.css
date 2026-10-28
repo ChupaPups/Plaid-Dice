@@ -18,9 +18,26 @@
 }
 
 .semibold {
-    font-weight: 400;
+    font-weight: 600;
 }
 
 .bold {
-    font-weight: 400;
+    font-weight: 800;
+}
+
+.welcome{
+    padding: 20px;
+    display: flex;
+    text-align: center;
+    justify-content:center;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.welcome h1{
+    font-size: 64px;
+}
+
+.welcome p{
+    font-size: 20px;
 }
