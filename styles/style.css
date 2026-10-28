@@ -14,3 +14,33 @@
 .text-color{
     color: var(--text);
 }
+
+.history{
+    padding: 20px;
+    display: flex;
+    text-align: center;
+    margin: auto;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.history h1 {
+    font-size: 32px;
+}
+
+.history p {
+    font-size: 20px;
+}
+
+.history-text {
+    width: 550px;
+    display: flex;
+    text-align: center;
+    margin: auto;
+}
+
+.history img {
+    width: 40%;
+    height: 40%;
+    margin: auto;
+}
