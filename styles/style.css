@@ -14,3 +14,29 @@
 .text-color{
     color: var(--text);
 }
+
+header{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    background-color: var(--main);
+    width: 100%;
+    height: 78px;
+}
+
+footer{
+    display: flex;
+    align-items: center;
+    background-color: var(--main);
+    width: 100%;
+    height: 105px;
+}
+
+.footer-links{
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    gap: 20px;
+    text-decoration: none;
+    color: inherit;
+}
