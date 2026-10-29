@@ -11,7 +11,7 @@
     --text: #3A3532;
 }
 
-.text-color{
+.text-color {
     color: var(--text);
 }
 header{
@@ -72,4 +72,27 @@ header{
     width: 40%;
     height: 40%;
     margin: auto;
+}
+footer {
+    color: var(--text);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: var(--main);
+    width: 100%;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+.footer-links {
+    display: flex;
+    gap: 20px;
+    color: var(--text);
+    padding: 60px;
+}
+
+.footer-link {
+    font-size: 20px;
+    color: var(--text);
+    text-decoration: none;
 }
