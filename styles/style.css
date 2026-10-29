@@ -40,3 +40,36 @@ header{
 .welcome p{
     font-size: 20px;
 }
+.history{
+    padding: 20px;
+    display: flex;
+    text-align: center;
+    margin: 30px;
+    flex-direction: row;
+    gap: 20px;
+    color: var(--text);
+
+}
+
+.history h1 {
+    font-size: 32px;
+    margin-bottom: 30px;
+}
+
+.history p {
+    font-size: 20px;
+}
+
+.history-text {
+    width: 550px;
+    display: flex;
+    text-align: center;
+    margin: auto;
+    flex-direction: column;
+}
+
+.history img {
+    width: 40%;
+    height: 40%;
+    margin: auto;
+}
