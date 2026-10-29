@@ -16,6 +16,7 @@
 }
 
 .welcome{
+    color: var(--text);
     padding: 20px;
     display: flex;
     text-align: center;
