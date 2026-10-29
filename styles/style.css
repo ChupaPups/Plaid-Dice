@@ -16,6 +16,7 @@
 }
 
 header{
+    color: var(--text);
     display: flex;
     align-items: center;
     gap: 20px;
